@@ -1,19 +1,28 @@
-#My Start-Up
-Diseño de página web para ofrecer servicios de diseño y desarrollo web
+# My Start-Up
 
-## 🚀 Project Structure
+**Diseño y desarrollo de páginas web.**
 
-Diseñado con Astro, Tailwind, ...
+Este proyecto ofrece servicios integrales de diseño y desarrollo web utilizando tecnologías modernas.
 
-## 🧞 Commands
+## 🚀 Estructura del Proyecto
 
-All commands are run from the root of the project, from a terminal:
+El proyecto está diseñado con las siguientes tecnologías:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+- **Astro**: Framework para construir sitios web rápidos y modernos.
+- **Tailwind CSS**: Framework de diseño para crear interfaces estilizadas.
+
+## 🎯 Objetivo
+
+- Creación de sitios web a medida.
+- Optimización para mejorar la visibilidad en buscadores.
+- Implementación de métodos de pago seguros.
+- Implementación de dashboards y análisis en vivo.
+- **Asesorías y Capacitación en**:
+  - JavaScript
+  - TypeScript
+  - Angular
+  - Principios SOLID
+
+## 📜 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE.txt](LICENSE.txt) para más detalles.
